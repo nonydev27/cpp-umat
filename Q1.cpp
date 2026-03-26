@@ -12,7 +12,7 @@ void DisplayMenu() {
     cout << "5. Exit" << endl;
 }
 
-// This fuunction is useds to calculate Rainfall Intensity: RI = R / T yeah
+// This fuunction is used to calculate Rainfall Intensity: RI = R / T
 
 void RainfallIntensity() {
     double R, T;
